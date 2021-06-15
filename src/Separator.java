@@ -22,6 +22,7 @@ public class Separator {
                 n += 1;
             }
         }
+
         return evens;
     }
 

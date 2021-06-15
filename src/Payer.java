@@ -2,6 +2,7 @@ public class Payer {
     public static void main(String[] args) {
         Payer payer = new Payer("Seifulin","Mansur","Almaty","32323");
         System.out.println(payer);
+        System.out.println(payer);
     }
     String surname;
     String name ;
